@@ -7,7 +7,7 @@
 ![Net1](https://user-images.githubusercontent.com/76952086/125717618-c85ecf7b-e1a1-4958-bb9f-2e644656fc07.gif)
 
 #### Kayıt ekranındaki bilgileri eksiksiz bir şekilde girmek gerekmektedir.En sevdiğiniz 3 kategoriyi seçmelisiniz.Seçilen kategorilerde puanı en yüksek programlar listelenir.
-![Net2](https://user-images.githubusercontent.com/76952086/125717622-1da9c5eb-8196-457e-b7c5-67c290dcedb4.gif)
+![Net5](https://user-images.githubusercontent.com/76952086/125718838-2ec543f3-6f53-4379-a389-1cbb4912c330.gif)
 
 #### Kayıt olduktan sonra programa giriş yapabilirsiniz.İzlemek istediğiniz bulmak için arama kısmını kullanabilirsiniz.Kategoriye göre arama yapabilirsiniz.Eğer seçtiğiniz programın birden fazla bölümü varsa sağ tarafta bölümler listelenir.
 ![Net3](https://user-images.githubusercontent.com/76952086/125717623-54e1d784-2321-4592-a4e3-c5988ac44d2e.gif)
