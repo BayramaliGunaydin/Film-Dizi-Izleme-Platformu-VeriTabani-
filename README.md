@@ -3,7 +3,7 @@
 Proje basit bir dizi veya film izleme platformudur.Programların bilgileri ve kullanıcı bilgileri veritabanı üzerinde tutulur.
 
 Programa giriş yapabilmek için kayıt olmak gerekmektedir.
-![Net1](https://user-images.githubusercontent.com/76952086/125717618-c85ecf7b-e1a1-4958-bb9f-2e644656fc07.gif)
+##![Net1](https://user-images.githubusercontent.com/76952086/125717618-c85ecf7b-e1a1-4958-bb9f-2e644656fc07.gif)
 
 Kayıt ekranındaki bilgileri eksiksiz bir şekilde girmek gerekmektedir.En sevdiğiniz 3 kategoriyi seçmelisiniz.Seçilen kategorilerde puanı en yüksek programlar listelenir.
 ![Net5](https://user-images.githubusercontent.com/76952086/125718838-2ec543f3-6f53-4379-a389-1cbb4912c330.gif)
